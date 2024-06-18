@@ -1,13 +1,13 @@
 # Ứng dụng xử lý ảnh nhận dạng cử chỉ bàn tay điều khiển robot chuyển động
 Code chương trình cho nhận diện bàn tay
 
-•
+• DetectionHand.py
 
 Code chương trình cho Arduino
 
-•	
+•	Robot.ino
 
-•	
+•	Tranmister.ino
 
 Trong đề tài, được chia làm 3 nhiệm vụ chính:
 
