@@ -5,10 +5,15 @@ Code chương trình cho Arduino
 •	
 •	
 Trong đề tài, được chia làm 3 nhiệm vụ chính:
+
 •	Nhận diện cử chỉ bàn tay 
+
 •	Xây dựng phần cứng cho robot (cơ cấu chấp hành)
+
 •	Truyền nhận tính hiệu điều khiển từ laptop qua robot
+
 ![image](https://github.com/LDTuan/hand-detection-robot/assets/138774749/bf13507d-f318-4f2f-b1cc-b1af5e4a732c)
+
 1.	Nhận diện cử chỉ bàn tay
 •	Sử dụng mô hình Machine Learning được tạo sẵn bởi MediaPipe
 Đầu vào : Video ( được lấy trực tiếp từ webcam của laptop)
