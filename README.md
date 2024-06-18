@@ -7,7 +7,7 @@ Code chương trình cho Arduino
 
 •	Robot.ino
 
-•	Tranmister.ino
+•	Tranmister.ino ( for Arduino nano)
 
 Trong đề tài, được chia làm 3 nhiệm vụ chính:
 
