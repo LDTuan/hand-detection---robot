@@ -1,1 +1,1 @@
-# hand-detection---robot
+# Robot control uses hand recognition image processing
